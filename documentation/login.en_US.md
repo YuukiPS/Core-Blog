@@ -2,7 +2,7 @@
 title: 'How to Register or Log-In'
 banner: "https://i.imgur.com/BrmCGfz.png"
 short: "Guide How to register or log ind"
-description: "Guide How to register or login"
+description: "Register/login on YuukiPS: Input any username/password. Auto-log if exists, auto-register and log in if new."
 keyword: "YuukiPS, register, login, Pirvate Server"
 index: true
 ---

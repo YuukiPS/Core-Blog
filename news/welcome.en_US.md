@@ -2,8 +2,8 @@
 title: 'Welcome to YuukiPS'
 banner: "/image/banner7.png"
 short: "This is a short story"
-description: "Hello"
-keyword: "yuuki"
+description: "This is a short story"
+keyword: "YuukiPS"
 index: true
 ---
 Welcome to YuukiPS, before connect to our server there are a few things you need to know.

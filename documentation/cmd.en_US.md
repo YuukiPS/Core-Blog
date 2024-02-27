@@ -2,7 +2,7 @@
 title: 'How to use Web Command'
 banner: "https://i.imgur.com/Jsqvo5g.png"
 short: "Guide to use Web Command"
-description: "Guide to use Web Command"
+description: "Web commands offer an alternative to in-game chat for GM commands. Ideal for GIO servers lacking the 'ayaka bot,' it's user-friendly with a built-in handbook, eliminating the need to search for item IDs."
 keyword: "YuukiPS, Web Command, Pirvate Server"
 index: true
 ---

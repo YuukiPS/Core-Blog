@@ -2,12 +2,10 @@
 title: 'How to connect with Launcher (PC)'
 banner: "https://i0.wp.com/www.gimbot.com/wp-content/uploads/2019/12/alasan-pc-master-race-adalah-omong-kosong-featured.jpg"
 short: "Guide to use Launcher for PC"
-description: "Guide to use Launcher for PC"
+description: "Connect to our server using the private server launcher. It handles patching and proxy, requiring no additional steps."
 keyword: "YuukiPS, Launcher, Pirvate Server, PC"
 index: true
 ---
-
-## Getting Started
 
 To connect to our server you can use the launcher which is made specifically for private servers with this you have already done the patch and proxy so you don't need anything else. currently PC Launcher is available in two options:
 
