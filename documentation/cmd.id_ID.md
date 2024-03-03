@@ -27,7 +27,7 @@ Perintah Web adalah cara lain untuk mengakses Perintah GM yang tidak memiliki fi
 
 7. Pada bagian ini Anda hanya perlu mengetik ulang `Kode` dan `UID Akun` anda, lalu klik `Login`.
 
-   > Peringatan: Jika data pemain tidak ditemukan, Anda dapat mencoba memilih bagian `Muat Ulang Data Pemain`. Ini akan mencari data Anda di semua server sehingga proses login jadi lambat. dan pastikan hanya menggunakan ini jika anda tidak dapat menemukan data pemain anda, jika terlalu sering menggunakannya anda akan di blokir sementara selama 1 jam
+   > Info: data player akan selalu diperbarui setiap 1 jam jadi jika anda masih belum menemuk data player di server yang anda inginkan silakan tunggu 1 jam lagi lalu login ke perintah web.
 
 ## Video
 

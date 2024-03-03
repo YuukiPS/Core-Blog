@@ -14,7 +14,7 @@ index: true
 - For Star Rail, There is no need for game patch. (means we still support this because you need a proxy aka this Shadowrocket)
 
 ## How to Sign
-
+0. [Follow instructions for downloading ipa](https://alist.nn.ci/guide/advanced/ipa.html#installation-example)
 1. Extract .ipa (in Mac)
 2. Sign .app file: `sudo codesign -f -s - Payload/GenshinImpact.app`
 3. Compress back to .ipa: `zip -qry Genshin.ipa` Payload

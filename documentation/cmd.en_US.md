@@ -27,7 +27,7 @@ Web commands are another way to access GM commands that don't have an in-game ch
 
 7. In this section you only need to retype your `Code` and `Account UID`, then click login.
 
-   > Warning: If player data is not found, you can try selecting the `Reload Player Data` section. This will search for your data on all servers so logging in will be slow. and make sure to only use this if you can't find your player data, if you use it too often you will be temporarily blocked for 1 hour
+   > Info: player data will always be updated every 1 hour so if you still haven't found the player data on the server you want please wait another 1 hour then log in to the web command.
 
 ## Video
 
