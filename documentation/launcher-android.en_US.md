@@ -9,7 +9,7 @@ index: true
 
 ## Getting Started
 
-1. Download Launcher For Android: [GI GC 4.0.0, GI GIO 3.2.0](/game/genshin-impact), [SR LC 2.0.0](/game/star-rail).
+1. Download Launcher For Android: [GI](/game/genshin-impact), [SR](/game/star-rail).
 2. After you download, you can immediately install the apk like a normal application, nothing special.
 3. After you install it, you can open it and log in with your [YuukiPS Account](/account/home), after that the game data will automatically download so you don't need to manually download game data anymore.
 

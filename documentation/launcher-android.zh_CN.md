@@ -9,7 +9,7 @@ index: true
 
 ## 开始
 
-1. 下载安卓版启动器： [GI GC 4.0.0、GI GIO 3.2.0]（/game/genshin-impact）、[SR LC 2.0.0]（/game/star-rail）。
+1. 下载安卓版启动器： [GI]（/game/genshin-impact）、[SR]（/game/star-rail）。
 2. 下载后，您可以像安装普通应用程序一样直接安装 apk，没有什么特别之处。
 3. 安装成功后，只需打开游戏，然后使用[YuukiPS 账号](/account/home) 登录，密码随便填。
 4. 之后游戏数据将自动下载，您无需再手动下载游戏数据。(必须下载，不可跳过）

@@ -10,11 +10,12 @@ Welcome to YuukiPS, before connect to our server there are a few things you need
 
 ## [Genshin Impact](/game/genshin-impact)
 
-* GIO 3.2.0 Available for PC,Android
-* GC 4.0.0 / 4.0.1 Available for PC,Android,(iOS Maybe)
+* GIO 3.2.0 Available for PC,Android (1% bug)
+* GC 4.0.0 / 4.0.1 Available for PC,Android,iOS (50% bug)
+* GC 4.5.0 Available for PC,Android (90% bug)
 
 ## [Star Rail](/game/star-rail)
-* LC 2.0.0 Available for PC,Android,iOS
+* LC 2.1.0 Available for PC,Android,iOS
 
 You can download game by clicking link above, there should be a menu for the PC,Android,iOS versions or Access [Documentation](/blog/documentation) for a more complete tutorial.
 

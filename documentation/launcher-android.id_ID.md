@@ -9,7 +9,7 @@ index: true
 
 ## Memulai
 
-1. Unduh Peluncur Untuk Android: [GI GC 4.0.0, GI GIO 3.2.0](/game/genshin-impact), [SR LC 2.0.0](/game/star-rail).
+1. Unduh Peluncur Untuk Android: [GI](/game/genshin-impact), [SR](/game/star-rail).
 2. Setelah kamu download, kamu bisa langsung install apknya seperti aplikasi biasa, tidak ada yang istimewa di sini.
 3. Setelah kamu berhasil menginstalnya, kamu hanya perlu membuka gamenya lalu masuk dengan dengan menggunakan [Akun YuukiPS](/account/home) (bukan akun di server resmi mu) dan untuk sandinya isi apa aja itu langsung bisa.
 4. setelah itu data game akan otomatis terdownload sehingga anda tidak perlu lagi mendownload data game secara manual. (ini wajib di download gak bisa di skip yah)
