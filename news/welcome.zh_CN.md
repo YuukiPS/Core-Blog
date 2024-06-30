@@ -12,10 +12,11 @@ index: true
 
 * GIO 3.2.0 可用于 PC、Android
 * GC 4.0.0 / 4.0.1 可用于 PC、Android（iOS 可能）。
-* GC 4.5.0 可用于 PC、Android。
+* GC 4.6.0 可用于 PC、Android。
+* GC 4.7.0 可用于 PC。
 
 ## [Star Rail](/game/star-rail)
-* LC 2.1.0 可用于 PC、Android、iOS
+* LC 2.3.0 可用于 PC、Android、iOS
 
 你可以点击上面的链接下载游戏，其中应该有 PC、Android、iOS 版本的菜单，或者访问 [文档](/blog/documentation)，获取更完整的教程。
 

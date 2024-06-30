@@ -10,12 +10,13 @@ Selamat datang di YuukiPS, sebelum terhubung ke server kami ada beberapa hal yan
 
 ## [Genshin Impact](/game/genshin-impact)
 
-* GIO 3.2.0 Tersedia untuk PC & Android (1% bug)
-* GC 4.0.0 / 4.0.1 Tersedia untuk PC & Android (50% bug)
-* GC 4.5.0 Tersedia untuk PC & Android (90% bug)
+* GIO 3.2.0 Tersedia untuk PC,Android (0% bug)
+* GC 4.0.0 / 4.0.1 Tersedia untuk PC,Android,iOS (50% bug)
+* GC 4.6.0 Tersedia untuk PC & Android (70% bug)
+* GC 4.7.0 Tersedia untuk PC (80% bug)
 
 ## [Star Rail](/game/star-rail)
-* LC 2.1.0 Tersedia untuk PC,Android,iOS
+* LC 2.3.0 Tersedia untuk PC,Android,iOS
 
 Kamu dapat mendownload gamenya dengan mengklik link di atas, seharusnya ada menu untuk versi PC,Android,iOS atau Akses [Dokumentasi](/blog/documentation) untuk tutorial lebih lengkap gan.
 
