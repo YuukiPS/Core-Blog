@@ -17,7 +17,7 @@ This version is the easiest and much more stable than other versions.
    * YOU MUST DOWNLOAD ALL PARTS, BUT YOU ONLY NEED TO OPEN THE FIRST PART AND USE THAT TO EXTRACT EVERYTHING FROM THERE
 3. then open `GenshinImpact.exe`, that's all no need for anything else.
 
-### YuukiPS Launcher (for SR 2.3 and GI 3.2,4.0,4.6,4.7)
+### YuukiPS Launcher (for SR 2.4 and GI 3.2,4.0,4.6,4.7)
 1. Download [Launcher YuukiPS](/game/genshin-impact)
 2. Extract zip to a folder, anywhere as long as you have enough storage space. (`NEVER RUN INSIDE A ZIP OR CLOUD STORAGE LIKE ONEDRIVE`)
 3. Before you run it, make sure the antivirus or Windows firewall is off or `put it in except list` because Microsoft often gives false warnings because the file was created without Microsoft verification and because cheats are injected stuff which Microsoft doesn't like.
