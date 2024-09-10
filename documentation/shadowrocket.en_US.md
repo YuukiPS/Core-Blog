@@ -9,7 +9,7 @@ index: true
 
 ## Info
 
-- Download,Install,Sign it: [Shadowrocket](https://file2.yuuki.me/GD1/Project/GenshinImpact/App/Shadowrocket.ipa) or better [just buy](https://apps.apple.com/us/app/shadowrocket/id932747118?ref=YuukiPS) it, it's much simpler
+- Download,Install,Sign it: [Shadowrocket](https://file2.yuuki.me/p/Public/Local_EU/App/iOS/Shadowrocket.ipa) or better [just buy](https://apps.apple.com/us/app/shadowrocket/id932747118?ref=YuukiPS) it, it's much simpler
 - For Genshin Impact with version 2.7+ you need a [game patch](/game/genshin-impact) and sign it (Patch version 4.0.0 is now available!)
 - For Star Rail, There is no need for game patch. (means we still support this because you need a proxy aka this Shadowrocket)
 
