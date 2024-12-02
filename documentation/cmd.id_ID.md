@@ -5,6 +5,7 @@ short: "Panduan untuk menggunakan Perintah Web"
 description: "Panduan untuk menggunakan Perintah Web"
 keyword: "YuukiPS, Web Command, Pirvate Server"
 index: true
+comment: true
 ---
 
 Perintah Web adalah cara lain untuk mengakses Perintah GM yang tidak memiliki fitur chat di dalam game atau jika anda bermain di server GIO yang tidak memiliki `Ayaka Bot` dan lebih mudah digunakan karena dilengkapi dengan buku pegangan (Buku kode item,etc) sehingga tidak perlu repot mencari id item.

@@ -5,6 +5,7 @@ short: "Guide to use Shadowrocket for connecting to Private Server"
 description: "Guide to use Shadowrocket for connecting to Private Server"
 keyword: "YuukiPS, Shadowrocket, Pirvate Server"
 index: true
+comment: true
 ---
 
 ## Info
@@ -41,18 +42,20 @@ You can run any iOS application with [Playcover](https://docs.playcover.io/getti
 2. Paste this code, click save.
 
 ```RE
-!name=YuukiPS
+#!name=YuukiPS
 [URL Rewrite]
 ^https://([\da-z-.]+).hoyoverse.com https://ps.yuuki.me header
 ^https://([\da-z-.]+).mihoyo.com https://ps.yuuki.me header
+^https://([\da-z-.]+).yuanshen.com https://ps.yuuki.me header
 ^https://([\da-z-.]+).starrails.com https://ps.yuuki.me header
 ^https://([\da-z-.]+).bhsr.com https://ps.yuuki.me header
 ^https://hoyoverse.com https://ps.yuuki.me header
 ^https://mihoyo.com https://ps.yuuki.me header
+^https://yuanshen.com https://ps.yuuki.me header
 ^https://starrails.com https://ps.yuuki.me header
 ^https://bhsr.com https://ps.yuuki.me header
 [MITM]
-hostname = %APPEND% .hoyoverse.com,.mihoyo.com,.starrails.com,.bhsr.com
+hostname = %APPEND% .hoyoverse.com,.mihoyo.com,.starrails.com,.bhsr.com,.yuanshen.com
 ```
 
 3. Click on settings, select UDP, and turn on "forwarding" option.

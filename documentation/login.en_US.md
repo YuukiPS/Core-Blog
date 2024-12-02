@@ -5,6 +5,7 @@ short: "Guide How to register or log ind"
 description: "Register/login on YuukiPS: Input any username/password. Auto-log if exists, auto-register and log in if new."
 keyword: "YuukiPS, register, login, Pirvate Server"
 index: true
+comment: true
 ---
 
 Registering or logging in to YuukiPS is actually quite simple, you only need to input (any username, however you still have to remember it) and (any password, because it's not important). and if account is already registered it will automatically log in, and if account has never been registered it will automatically register and then log in automatically. 

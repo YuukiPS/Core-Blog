@@ -5,6 +5,7 @@ short: "Guide to use Launcher for PC"
 description: "Connect to our server using the private server launcher. It handles patching and proxy, requiring no additional steps."
 keyword: "YuukiPS, Launcher, Pirvate Server, PC"
 index: true
+comment: true
 ---
 
 To connect to our server you can use the launcher which is made specifically for private servers with this you have already done the patch and proxy so you don't need anything else. currently PC Launcher is available in two options:
@@ -17,18 +18,18 @@ This version is the easiest and much more stable than other versions.
    * YOU MUST DOWNLOAD ALL PARTS, BUT YOU ONLY NEED TO OPEN THE FIRST PART AND USE THAT TO EXTRACT EVERYTHING FROM THERE
 3. then open `GenshinImpact.exe`, that's all no need for anything else.
 
-### YuukiPS Launcher (for SR 2.5 and GI 3.2,4.0,5.0)
+### YuukiPS Launcher (for SR and GI)
 1. Download [Launcher YuukiPS](/game/genshin-impact)
 2. Extract zip to a folder, anywhere as long as you have enough storage space. (`NEVER RUN INSIDE A ZIP OR CLOUD STORAGE LIKE ONEDRIVE`)
 3. Before you run it, make sure the antivirus or Windows firewall is off or `put it in except list` because Microsoft often gives false warnings because the file was created without Microsoft verification and because cheats are injected stuff which Microsoft doesn't like.
 4. After you open it (if you are asked to update please click yes), after that, the launcher will try to detect your game, if it doesn't work, do the next step.
 5. After you have successfully downloaded game data which is around 60gb in size and unzip/extract game data file to anywhere and make sure you remember location game folder.
-6. In `Game config` tab > `Game Folder` please click `Choose` and look for your game folder (make sure game folder is still using version 3.2,4.0.0,4.0.1,4.6,4.7.0 not 4.8.0. If it still hasn't been downloaded, it will give you a warning) (MAKE SURE YOU DO NOT SELECT FOLDER `XXX_Data` aka `GenshinImpact_Data` THIS IS WRONG, YOU MUST SELECT MAIN GAME FOLDER NOT SUB FOLDER.)
+6. In `Game config` tab > `Game Folder` please click `Choose` and look for your game folder (MAKE SURE YOU DO NOT SELECT FOLDER `XXX_Data` aka `GenshinImpact_Data` THIS IS WRONG, YOU MUST SELECT MAIN GAME FOLDER NOT SUB FOLDER.)
 7. If this is first time you click `Launcher` you will be given a prompt to install SSL aka CA (Certificate) just click yes, after that try closing application first then open it again then click `Launcher` again.
 8. At this point you are finished, if you successfully enter private server you will only see Twitter without Google,Facebook Login Logo.
 9. If you log in successfully, it will automatically download another 13gb or so of English voices, it's normal so just let it finish.
 
-### Manual Patch (for GI 5.0)
+### Manual Patch (for GI)
 1. Download [Patch YuukiPS GI x.x](/game/genshin-impact)
 2. Download Game Data/Client if you don't have version x.x, the link should be there too.
 2. Extract zip (game data) to a folder, anywhere as long as you have enough storage space. 

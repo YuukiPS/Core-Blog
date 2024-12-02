@@ -5,6 +5,7 @@ short: "Guide to use Web Command"
 description: "Web commands offer an alternative to in-game chat for GM commands. Ideal for GIO servers lacking the 'ayaka bot,' it's user-friendly with a built-in handbook, eliminating the need to search for item IDs."
 keyword: "YuukiPS, Web Command, Pirvate Server"
 index: true
+comment: true
 ---
 
 Web commands are another way to access GM commands that don't have an in-game chat feature in the game or if you play on a GIO server that doesn't have `ayaka bot` and is easier to use because it is equipped with a handbook so you don't have to bother looking for item IDs .

@@ -5,6 +5,7 @@ short: "安卓版 YuukiPS 启动器使用指南"
 description: "安卓版 YuukiPS 启动器使用指南"
 keyword: "YuukiPS, Launcher Mod, Pirvate Server, Android"
 index: true
+comment: true
 ---
 
 ## 开始

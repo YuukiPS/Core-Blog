@@ -5,6 +5,7 @@ short: "这是一个小故事"
 description: "这是一个小故事"
 keyword: "YuukiPS"
 index: true
+comment: false
 ---
 欢迎来到 YuukiPS，在连接我们的服务器之前，您需要知道一些事情。
 
@@ -15,7 +16,7 @@ index: true
 * GC 5.0.0 可用于 PC, Android。
 
 ## [Star Rail](/game/star-rail)
-* LC 2.5.0 可用于 PC、Android、iOS
+* LC 2.7.0 可用于 PC、Android、iOS
 
 你可以点击上面的链接下载游戏，其中应该有 PC、Android、iOS 版本的菜单，或者访问 [文档](/blog/documentation)，获取更完整的教程。
 

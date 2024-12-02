@@ -5,6 +5,7 @@ short: "使用方法如下"
 description: "如何注册或登录 YuukiPS"
 keyword: "YuukiPS、注册、登录、盗版服务器"
 index: true
+comment: true
 ---
 
 如何注册或登录YuukiPS其实很简单，只需输入（任何用户名，记住这一点很重要，因为如果用户名又不一样了，就意味着你又创建了一个新账户）和（密码在这里并不重要，但不能是空的，只需填写`1`或其他）。

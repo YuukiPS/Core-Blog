@@ -5,6 +5,7 @@ short: "网络命令使用指南"
 description: "网络命令使用指南"
 keyword: "YuukiPS，网络命令，盗版服务器"
 index: true
+comment: true
 ---
 
 网络命令是访问没有游戏内聊天功能的 GM 命令的另一种方式，或者如果您是在没有 "Ayaka Bot "的 GIO 服务器上进行游戏，网络命令也更容易使用，因为它们附带有手册（物品代码书等），因此无需费心寻找物品 ID。

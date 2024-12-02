@@ -5,6 +5,7 @@ short: "Guide to use Launcher YuukiPS for Android"
 description: "Guide to use Launcher YuukiPS for Android"
 keyword: "YuukiPS, Launcher Mod, Pirvate Server, Android"
 index: true
+comment: true
 ---
 
 ## Getting Started

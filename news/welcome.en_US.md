@@ -5,6 +5,7 @@ short: "This is a short story"
 description: "This is a short story"
 keyword: "YuukiPS"
 index: true
+comment: false
 ---
 Welcome to YuukiPS, before connect to our server there are a few things you need to know.
 
@@ -15,7 +16,7 @@ Welcome to YuukiPS, before connect to our server there are a few things you need
 * GC 5.0.0 Available for PC,Android (60% bug)
 
 ## [Star Rail](/game/star-rail)
-* LC 2.5.0 Available for PC,Android,iOS
+* LC 2.7.0 Available for PC,Android,iOS
 
 You can download game by clicking link above, there should be a menu for the PC,Android,iOS versions or Access [Documentation](/blog/documentation) for a more complete tutorial.
 

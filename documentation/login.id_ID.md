@@ -5,6 +5,7 @@ short: "Ini cara pakainya"
 description: "Cara daftar atau login di YuukiPS"
 keyword: "YuukiPS, register, login, Pirvate Server"
 index: true
+comment: true
 ---
 
 Cara mendaftar atau login YuukiPS sebenarnya cukup mudah, yang dibutuhkan hanya memasukkan (username apa saja, yang penting diingat karena kalau beda lagi artinya kamu buat akun baru lagi) dan (sandi disini gak penting tapi gak bisa kosong isi saja `1` atau apapun). kalau akun sudah pernah terdaftar maka akan otomatis login, dan jika akun belum pernah didaftarkan maka akan otomatis mendaftar lalu login otomatis.

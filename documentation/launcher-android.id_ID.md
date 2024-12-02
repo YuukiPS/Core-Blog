@@ -5,6 +5,7 @@ short: "Panduan untuk menggunakan Peluncur YuukiPS untuk Android"
 description: "Panduan untuk menggunakan Peluncur YuukiPS untuk Android"
 keyword: "YuukiPS, Launcher Mod, Pirvate Server, Android"
 index: true
+comment: true
 ---
 
 ## Memulai
